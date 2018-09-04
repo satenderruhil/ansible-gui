@@ -1,0 +1,32 @@
+pwd
+free -m
+cat commands.logs
+df -h
+echo $HOME
+echo $PATH
+ls -ltr
+ls
+cat commands.logs
+ping -c 4 localhost
+ping -c 4 localhost
+ping -c 4 localhost
+ping -c 10 localhost
+ping -c 10 localhost
+top -c
+vmstate -n 3
+df -h
+vmstate 4 3
+/usr/bin/vmstat 4 2
+vmstate 4 3
+/usr/bin/vmstat 4 2
+whoami
+whoami
+vmstate 4 3
+/usr/bin/vmstat 4 2
+echo "welcome"
+ping -c 10 localhost
+ping -c 10 172.17.0.2
+ping -c 10 172.17.0.2
+ping -c 10 172.17.0.2
+whoami
+ping -c 30 172.17.0.3

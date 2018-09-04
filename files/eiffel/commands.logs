@@ -1,0 +1,14 @@
+pwd
+cat commands.logs
+id
+echo "hello"
+cat commands.logs
+cat commands.logs
+tac commands.logs
+ansible --version
+ansible -i inventory test -m ping
+ansible -i inventory test -m ping
+ansible -i inventory test -m ping
+ansible -i inventory test -m ping --become
+ls -ltr
+pwd
