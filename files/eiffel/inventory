@@ -1,8 +1,0 @@
-[test]
-172.17.0.3
-127.0.0.1
-
-[all:vars]
-ansible_ssh_user=client
-ansible_ssh_pass=client
-ansible_sudo_pass=client
