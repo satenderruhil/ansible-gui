@@ -35,7 +35,7 @@ exit();
 	    </ul>
 	</div>
 
-   <h1 style="text-align:center"> Welcome to Eiffel Ansible server </h1> 
+   <h1 style="text-align:center"> Welcome to Ansible server </h1> 
     <form action="domain.php" method="post">
        <p> Domain name#    Domain controller hostname# </p>  <p> <input type="text" name="domain_name" placeholder="example.com">
        <input type="text" name="domain_host" placeholder="adcontrollerhost.example.com">
