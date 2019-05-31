@@ -6,5 +6,10 @@ pipeline {
         sh 'echo "Hello friends"'
       }
     }
+    stage('deploy') {
+      steps {
+        echo 'Build successful'
+      }
+    }
   }
 }
